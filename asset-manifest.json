@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/E-Commerce-Cart-react/static/css/main.cd29f5e2.css",
+    "main.js": "/E-Commerce-Cart-react/static/js/main.1d15c532.js",
+    "static/media/logo.svg": "/E-Commerce-Cart-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/E-Commerce-Cart-react/index.html",
+    "main.cd29f5e2.css.map": "/E-Commerce-Cart-react/static/css/main.cd29f5e2.css.map",
+    "main.1d15c532.js.map": "/E-Commerce-Cart-react/static/js/main.1d15c532.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd29f5e2.css",
+    "static/js/main.1d15c532.js"
+  ]
+}
